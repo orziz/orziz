@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orziz&layout=compact&exclude_repo=_archive&langs_count=8&count_private=true)](https://github.com/orziz/)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=orziz&show_icon=true&hide_title=true&count_private=true)](https://github.com/orziz/)
 
-[Blog](https://orzi.me) | [Gitee](https://gitee.com/orziz)
+[Blog](https://orzi.me) | [Gitee](https://gitee.com/orziz) | [Pohun](https://github.com/pohunchn) | [vite-ts-quick](https://github.com/pohunchn/vite-ts-quick)
 <!--
 **orziz/orziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
