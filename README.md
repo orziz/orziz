@@ -16,7 +16,7 @@
 
 - **Architecture & product engineering** — System boundaries, technical decisions, maintainability, and end-to-end delivery.
 - **Frontend** — Vue, TypeScript, component systems, and product-facing interfaces.
-- **Backend** — Node.js, PHP, MySQL, API design, and service architecture.
+- **Backend** — Go, Node.js, PHP, MySQL, API design, and service architecture.
 - **AI agents & developer tools** — Task governance, host integrations, workflow reliability, and practical tooling.
 
 ## Current focus
